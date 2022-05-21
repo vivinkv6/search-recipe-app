@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.recipe{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
