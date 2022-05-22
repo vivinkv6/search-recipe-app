@@ -1,9 +1,13 @@
 h1{
   text-align: center;
   margin-bottom: 50px;
+  margin-top: 20px;
+  font-size: 50px;
+  font-weight: 900;
 }
 .recipe{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin-top: 20px;
 }
