@@ -1,9 +1,12 @@
 h1{
+  color: rgb(190, 61, 86);
+  letter-spacing: 2px;
+  text-shadow: 5px 0px 4px black;
   text-align: center;
   margin-bottom: 50px;
   margin-top: 20px;
   font-size: 50px;
-  font-weight: 900;
+  font-weight: 800;
 }
 .recipe{
   display: flex;

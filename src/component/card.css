@@ -1,0 +1,4 @@
+img:hover{
+    transition: 0.7s ease-in-out;
+    filter: brightness(70%);
+}
