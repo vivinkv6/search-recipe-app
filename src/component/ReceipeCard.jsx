@@ -1,4 +1,4 @@
-import './card.css';
+import './styles/card.css';
 function RecipeCard({values}) {
 const{strMeal,strCategory,strMealThumb,strSource}=values;
     return(
